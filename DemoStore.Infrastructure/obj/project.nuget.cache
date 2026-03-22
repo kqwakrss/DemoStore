@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UpXq9zXVwiI61NQqhE0xmFjsQXm4c2pmVGl2JttRRRhBtl9cItRMyRIuZ585PyzQzZgJcfA3MjxR6ZWuvCF6+Q==",
+  "success": true,
+  "projectFilePath": "/home/maxum/DemoStore/DemoStore.Infrastructure/DemoStore.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/maxum/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
